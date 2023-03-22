@@ -5,19 +5,23 @@
 [면접을 위한 CS 전공지식 노트](https://search.shopping.naver.com/book/catalog/32478035848?cat_id=50010920&frm=PBOKMOD&query=%EB%A9%B4%EC%A0%91%EC%9D%84+%EC%9C%84%ED%95%9C+CS+%EC%A0%84%EA%B3%B5%EC%A7%80%EC%8B%9D+%EB%85%B8%ED%8A%B8&NaPm=ct%3Dlfjoxbpc%7Cci%3D790bb673ab163d4897b59f820a752988d8bf3474%7Ctr%3Dboknx%7Csn%3D95694%7Chk%3D0529535ffedddb51461942c2606084a7b5c2d354)
 
 
-## 매주 한 part를 두번에 나눠 수,토요일에 2명씩 발표한다.  
-
-## 1주차 : 5장 자료구조  
-
+## 매주 한 part를 두번에 나눠 수,토요일에 2명씩 발표한다.    
   
   
   
   
   
+## 1주차 : 5장 자료구조   
   
-  
-  
-
+    
+    
+    
+    
+    
+    
+    
+    
+   
 # 1장. 디자인 패턴과 프로그래밍 패러다임
 ## 1.1 디자인 패턴
 __1.1.1 싱글톤 패턴
