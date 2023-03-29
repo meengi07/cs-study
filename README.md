@@ -12,6 +12,7 @@
   
   
 ### [1주차 : 5장 자료구조-1](/5.DataStructures.md)   
+### [1주차 : 5장 자료구조-2](/5.DataStructures-2.md)   
 <br>
 <br>
 <br>
