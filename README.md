@@ -13,6 +13,7 @@
   
 ### [1주차 : 5장 자료구조-1](/5.DataStructures.md)   
 ### [1주차 : 5장 자료구조-2](/5.DataStructures-2.md)   
+### [2주차 : 3장 운영체제-1](/3.OperatingSystem.md)
 <br>
 <br>
 <br>
